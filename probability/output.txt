@@ -1,0 +1,5 @@
+Exercise 1 conditional prob 0.16666666666666666
+Exercise 1 independence prob 0.16666666666666666
+Exercise 2 prob 0.3333333333333333
+Exercise 2 cond prob 0.3333333333333333
+Exercise 3 prob 5 heads 0.24609375000000025

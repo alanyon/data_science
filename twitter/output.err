@@ -1,0 +1,8 @@
+/home/h04/alanyon/.bashrc: line 12: bind: warning: line editing not enabled
+[?1034h/home/h04/alanyon/.bashrc: line 13: bind: warning: line editing not enabled
+Traceback (most recent call last):
+  File "tweets.py", line 366, in <module>
+    main(new_data)
+  File "tweets.py", line 64, in main
+    day_plot(tweets_by_day)
+UnboundLocalError: local variable 'tweets_by_day' referenced before assignment

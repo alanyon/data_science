@@ -1,0 +1,29 @@
+Test stat for Men/Women 25.807938074393434
+pvalue for Men/Women 5.177500362916433e-87
+
+KS stat for Men/Women 0.825
+pvalue for Men/Women 4.795451191824928e-69
+
+One-sample KS stat for Men 0.065821167988038
+pvalue for Men 0.3368051674188465
+
+One-sample KS stat for Women 0.06930214688230424
+pvalue for Women 0.27892663251088834
+
+Test stat for Men 1990/Men 1960 1.8144692563977407
+pvalue for Men 1990/Men 1960 0.07035825121913232
+
+KS stat for Men 1990/Men 1960 0.125
+pvalue for Men 1990/Men 1960 0.0878382826713132
+
+One-sample KS stat for Men 1990 0.065821167988038
+pvalue for Men 1990 0.3368051674188465
+
+One-sample KS stat for Men 1960 0.05830834929798023
+pvalue for Men 1960 0.48664940454509087
+
+big_diff_men {'country': 'Iran', 'diff': 15.597927900000002}
+big_diff_women {'country': 'South Korea', 'diff': 14.624495299999978}
+small_diff_men {'country': 'Marshall Islands', 'diff': 0.2425862000000052}
+small_diff_women {'country': 'Zimbabwe', 'diff': 3.4740217000000087}
+Finished

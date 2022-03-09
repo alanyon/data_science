@@ -1,0 +1,22 @@
+data_mean 1613.556009553132
+np_mean 1613.556009553132
+data_median 1563.0
+np_median 1563.0
+data_mode 1472.0
+scipy_mode ModeResult(mode=array([1472.]), count=array([90]))
+data_sd 303.3792828677468
+np_std 303.37491804362685
+data_md 214.43395092454858
+np_mdev 214.43395092454978
+
+Standard skew: 2.1661085060624576
+Mode skew: 0.466597482250761
+Median skew: 0.4999287598867237
+
+Positive/right skew. There are more area with populations larger than the mean than areas with populations smaller than the mean. This could be because there are many small towns and villages (with similar population sizes) and relatively few big towns/cities with much larger populations.
+
+Kurtosis: 20.136167984541306
+Excess kurtosis: 17.136167984541306
+The population data is leptokurtic
+
+Finished
